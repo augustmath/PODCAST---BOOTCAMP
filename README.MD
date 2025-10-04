@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-    preview do podcast
+    CAVALEIROS DA MESA REDONDA
 </p>
 
 <div align="center">
