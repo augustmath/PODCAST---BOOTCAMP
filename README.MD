@@ -28,3 +28,4 @@ O tema do primeiro episódio é: A Reunião dos Maiores Heróis do Cinema
 ## 📚 Material de acesso para produção do podcast
 
 - [Notion - Resultado Final](https://www.notion.so/MAT-MATHEUS-PODCAST-AI-STUDIO-2825ec36a1168145b6a0ed7a64daed02)
+- [PODCAST - Resultado Final](https://github.com/augustmath/PODCAST---BOOTCAMP/tree/main/output)
