@@ -16,7 +16,6 @@ O tema do primeiro episódio é: A Reunião dos Maiores Heróis do Cinema
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -26,7 +25,6 @@ O tema do primeiro episódio é: A Reunião dos Maiores Heróis do Cinema
 - Audio gerado pela elevenLabs
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Material de acesso para produção do podcast
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Notion - Resultado Final](https://www.notion.so/MAT-MATHEUS-PODCAST-AI-STUDIO-2825ec36a1168145b6a0ed7a64daed02)
